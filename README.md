@@ -11,4 +11,5 @@ Anexando uma nova provincia:
   1 - Procurar pelo arquivo da provincia na pasta "provinces"
 
   2 - Mudar o "owner = (País x)" para "owner = (País y)"
-  obs (O nomes dos paises são definidos por tags, por exemplo: Colombia = COL, para descobrir a tag pesquisar dentro do nó "contries_data")
+  
+  obs (O nomes dos paises são definidos por tags, por exemplo: Colombia = COL, para descobrir a tag pesquise dentro do nó "contries_data")
