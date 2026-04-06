@@ -1,7 +1,14 @@
-Manual:
+Baixando:
+  
+  1 - Baixe o .zip do repositorio e descompacte
+  
+  3 - Baixar godot 4.5 ou 4.6
+  
+  4 - Importe o arquivo project.godot
 
-1 - Baixe o .zip do repositorio e descompacte
+Anexando uma nova provincia:
 
-3 - Baixar godot 4.5 ou 4.6
+  1 - Procurar pelo arquivo da provincia na pasta "provinces"
 
-4 - Importe o arquivo project.godot
+  2 - Mudar o "owner = (País x)" para "owner = (País y)"
+  obs (O nomes dos paises são definidos por tags, por exemplo: Colombia = COL, para descobrir a tag pesquisar dentro do nó "contries_data")
